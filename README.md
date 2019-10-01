@@ -1,4 +1,4 @@
-# SDLab1
+# SD2Lab1
 This is the first project from Software Development 2
 Where you give a .wav file without the extension.
 Then gives you 3 options to do.
